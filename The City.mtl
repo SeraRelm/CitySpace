@@ -1,0 +1,36 @@
+newmtl The_City:Default
+illum 4
+Kd 0.50 0.50 0.50
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Terrain 1_mtl1_bumpamt.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl The_City:default1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd cty1.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl The_City:default_bldgs2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd cty2x.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl The_City:default_sidewalks
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ang1.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
