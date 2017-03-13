@@ -1,36 +1,28 @@
-newmtl The_City:Default
-illum 4
-Kd 0.50 0.50 0.50
-Ka 1.00 1.00 1.00
-Tf 1.00 1.00 1.00
-map_Kd Terrain 1_mtl1_bumpamt.jpg
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 1.00
-newmtl The_City:default1
+newmtl initialShadingGroup
 illum 4
 Kd 1.00 1.00 1.00
 Ka 1.00 1.00 1.00
 Tf 1.00 1.00 1.00
 map_Kd cty1.jpg
 Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 1.00
-newmtl The_City:default_bldgs2
+newmtl lambert2SG
 illum 4
 Kd 1.00 1.00 1.00
 Ka 1.00 1.00 1.00
 Tf 1.00 1.00 1.00
 map_Kd cty2x.jpg
 Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 1.00
-newmtl The_City:default_sidewalks
+newmtl lambert3SG
 illum 4
-Kd 1.00 1.00 1.00
+Kd 0.50 0.50 0.50
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Terrain 1_mtl1_bumpamt.jpg
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.75 0.75 0.75
 Ka 1.00 1.00 1.00
 Tf 1.00 1.00 1.00
 map_Kd ang1.jpg
 Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 1.00
